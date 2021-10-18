@@ -1,4 +1,4 @@
-/* package edu.westga.cs3211.a2.test.model.hi_low_game;
+package edu.westga.cs3211.a2.test.model.hi_low_game;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -94,4 +94,3 @@ class TestCheckGuess {
 	}
 
 }
- */
